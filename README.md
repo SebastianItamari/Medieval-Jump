@@ -60,5 +60,7 @@ cd Medieval-Jump
 ### 🕹️ Demo
 https://github.com/user-attachments/assets/c1bd5960-8c3c-40fb-8875-9a5f84b1fa72
 
+> ℹ️ *For demonstration purposes, level durations have been shortened. To extend them, increase the value of the `spaceBetweenLevels` variable in the `Medieval-Jump/Assets/Scripts/CameraScript.cs` file. The current value is set to `50`.*
+
 ## Authors 🧑‍💻
 - [@SebastianItamari](https://github.com/SebastianItamari)

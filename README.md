@@ -55,7 +55,25 @@ cd Medieval-Jump
   - Silver Coin: +20 points
   - Bronze Coin: +10 points
 
-<!-- Platforms, Levels -->
+### 🧱 Platforms
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="100" alt="Platform 1" src="https://github.com/user-attachments/assets/209be40e-c193-4cd1-b6a8-c3ae8ba13820" /><br/>
+      <strong>Platform 1 — Jump Height: 13</strong>
+    </td>
+    <td align="center">
+      <img height="100" alt="Platform 2" src="https://github.com/user-attachments/assets/a12eefcb-c3fb-4356-9a68-085d4fd2153a" /><br/>
+      <strong>Platform 2 — Jump Height: 22</strong>
+    </td>
+    <td align="center">
+      <img height="100" alt="Platform 3" src="https://github.com/user-attachments/assets/f4c0204a-8d71-499d-b093-f10608a0fecf" /><br/>
+      <strong>Platform 3 — Jump Height: 27</strong>
+    </td>
+  </tr>
+</table>
+
+<!-- Levels -->
 
 ### 🕹️ Demo
 https://github.com/user-attachments/assets/c1bd5960-8c3c-40fb-8875-9a5f84b1fa72

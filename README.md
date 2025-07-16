@@ -73,7 +73,7 @@ cd Medieval-Jump
   </tr>
 </table>
 
-## 📐 Levels Overview
+### 📐 Levels Overview
 
 The following table summarizes the key parameters of each level, including platform spacing, horizontal movement speed, and coin spawn frequency:
 

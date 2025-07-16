@@ -79,10 +79,10 @@ The following table summarizes the key parameters of each level, including platf
 
 | Level   | Vertical Distance Between Platforms (`varY`) | Horizontal Speeds (`horizontalSpeeds`) | Coin Spawn Chance (`recurrenceCoin`) |
 |---------|----------------------------------------------|----------------------------------------|------------------------------------|
-| Level 1 | 2.5                                          | Platform 1: 0<br/>Platform 2: 2<br/>Platform 3: 1                                | 1 in 4 (25%)                  |
-| Level 2 | 3.3                                         | Platform 1: 1<br/>Platform 2: 3<br/>Platform 3: 2                                | 1 in 8 (12.5%)                  |
-| Level 3 | 4.1                                         | Platform 1: 2<br/>Platform 2: 4<br/>Platform 3: 3                                | 1 in 12 (8.33%)                  |
-| Level 4 | 5                                          | Platform 1: 3<br/>Platform 2: 5<br/>Platform 3: 4                               | 1 in 16 (6.25%)                |
+| 1 | 2.5                                          | Platform 1: 0<br/>Platform 2: 2<br/>Platform 3: 1                                | 1 in 4 (25%)                  |
+| 2 | 3.3                                         | Platform 1: 1<br/>Platform 2: 3<br/>Platform 3: 2                                | 1 in 8 (12.5%)                  |
+| 3 | 4.1                                         | Platform 1: 2<br/>Platform 2: 4<br/>Platform 3: 3                                | 1 in 12 (8.33%)                  |
+| 4 | 5                                          | Platform 1: 3<br/>Platform 2: 5<br/>Platform 3: 4                               | 1 in 16 (6.25%)                |
 
 ### 🕹️ Demo
 https://github.com/user-attachments/assets/c1bd5960-8c3c-40fb-8875-9a5f84b1fa72

@@ -15,7 +15,7 @@ To run **Medieval Jump** on your machine, follow these steps:
 - **Unity Hub** installed  
 - **Unity Editor** version `2022.3.20f1` or higher (recommended)
 
-> ✅ *Make sure to use the same version used in the project to avoid compatibility issues.*
+> ✅ *Make sure to use the recommended version in the project to avoid compatibility issues.*
 
 ### 📥 Clone the Repository
 
@@ -58,6 +58,7 @@ cd Medieval-Jump
 <!-- Platforms, Levels -->
 
 ### 🕹️ Demo
+https://github.com/user-attachments/assets/c1bd5960-8c3c-40fb-8875-9a5f84b1fa72
 
 ## Authors 🧑‍💻
 - [@SebastianItamari](https://github.com/SebastianItamari)
